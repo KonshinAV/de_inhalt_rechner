@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/<ваш-username>/inhalt_rechner.git
+git clone https://github.com/KonshinAV/inhalt_rechner.git
 cd inhalt_rechner
 pip install -r requirements.txt
 python income_calculator.py
